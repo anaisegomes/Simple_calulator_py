@@ -1,1 +1,2 @@
-# Simple_calulator_py
+Calculadora de soma simples
+----------------------------------
